@@ -35,7 +35,7 @@ Python 3.x
 
 ```bash
 Enter absolute path to the folder with your Laravel projects.
-Example: '/home/username/Desktop/websites/laravel'
+Example: '/home/username/laravel'
 >>> /path/to/your/laravel/projects
 
 Enter the name of the output CSV file.
@@ -43,6 +43,8 @@ Example: 'LaravelDatabases.csv'
 >>> LaravelDatabases.csv
 
 DONE.
-Error Handling:
 ```
+
+### Error Handling:
+
 The script includes error handling for cases where the provided directory path does not exist or if there are any other unexpected issues.
